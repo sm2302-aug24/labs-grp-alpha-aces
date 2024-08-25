@@ -1,9 +1,9 @@
-# Team Alpha Aces! <3 
+# Team Alpha Aces! 👑
 #### This team consist of 3 students, let us introduce ourselves :)
-
 
 | Name  | Alicia Chong  | 
 | --- | ---| 
+| Github Profile |  [aliciachxng](https://github.com/aliciachxng) |
 | Registration Number  | 21B3051  | 
 | Birthday   | 1st January  | 
 | Fun Fact | I love Cafe Hopping! ☕ | 
@@ -11,9 +11,9 @@
 | My Favourite Mathematical Concept | Geometry because there are lots of different shapes and sizes | 
 | A Photo I Find Inspiring | ![istockphoto-155439315-612x612](https://github.com/user-attachments/assets/f6db7509-3bf1-491c-8278-f20da624fadc)  |
 
-
 | Name  | Seri Syazwani  | 
 | --- | ---| 
+| Link to Github Profile |  [srsyzwni](https://github.com/srsyzwni)   |
 | Registration Number  | 21B2008  | 
 | Birthday   | 8th August  | 
 | Fun Fact | I love when someone brings me to eat  | 
@@ -24,6 +24,7 @@
 
 | Name  | Li Hui | 
 | --- | ---| 
+| Link to Github Profile |  [olh1711](https://github.com/olh1711)   |
 | Registration Number  | 21b2060  | 
 | Birthday   | 17th November  | 
 | Fun Fact | I am a Kpop fans  | 
